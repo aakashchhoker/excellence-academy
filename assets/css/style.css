@@ -1638,7 +1638,7 @@ hr {
   margin: 0 auto;
 }
 .preloader .preloader-circle {
-  width: 100px;
+  width: 80px;
   height: 100px;
   position: relative;
   border-style: solid;
@@ -2393,7 +2393,7 @@ hr {
 }
 .mobile_menu .slicknav_menu .slicknav_nav {
   margin-top: 9px !important;
-  background: #c86fff;
+  /* background: #c86fff; */
 }
 .mobile_menu .slicknav_menu .slicknav_nav a:hover {
   background: transparent;
